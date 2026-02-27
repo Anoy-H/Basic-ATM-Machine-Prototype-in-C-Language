@@ -28,7 +28,6 @@ __________
 
 ## How to Run
 ⚠️ All .txt files must remain in the same directory or folder as the .exe (executable) file or the .c script.
-__________
 > Run using the .c file
 - Run the following code inside the directory using the terminal for Windows:
 "gcc atm.c -o atm"
@@ -38,7 +37,6 @@ __________
 
 ## Demo Account Login or Admin Login Credinals
 ⚠️ All .txt files must remain in the same directory or folder as the .exe (executable) file or the .c script.
-__________
 > Demo Account Numbers
 - 2312100
 - 2312101
