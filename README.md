@@ -1,5 +1,5 @@
 # Basic-ATM-Machine-Prototype-in-C-Language
-This project is a basic ATM machine prototype developed using the C programming language without any GUI.
+This project is a basic ATM machine prototype without any GUI developed using the C programming language.
 
 Table of Contents
 __________
