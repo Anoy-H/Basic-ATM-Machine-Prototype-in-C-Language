@@ -1,8 +1,8 @@
 # Basic-ATM-Machine-Prototype-in-C-Language
 This project is a basic ATM machine prototype without any GUI developed using the C programming language.
 
-Table of Contents
 __________
+Table of Contents
 - [Features](#features)
 - [How to Run](#how-to-run)
 - [Demo Account Login or Admin Login Credinals](#demo_account_login_or_admin_login_credinals)
