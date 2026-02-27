@@ -33,7 +33,6 @@ __________
 "gcc atm.c -o atm"
 > Run using the .exe (executable file)
 - Run the atm.exe
-__________
 
 ## Demo Account Login or Admin Login Credinals
 ⚠️ All .txt files must remain in the same directory or folder as the .exe (executable) file or the .c script.
@@ -52,4 +51,7 @@ __________
 > Demo Admin Login Credinals
 - Admin Account Number: 19640419
 - Admin PIN: 196404
+
+## Usages
+> This basic ATM machine prototype is totally console-based. In regular user mode, users can securely log in with their account number and PIN number to check their account balance, make cardless deposits, and withdraw cash, depending on the sufficient account balance and the available notes in the machine. The admin mode features administrators logging in using a different admin account number & different admin account PIN number to manage the machine’s cash vault by adding or by removing the notes already inserted into the machine. All account data is stored persistently in five external .txt files, so it is necessary to keep these .txt files in the same directory or in the same folder. This project provides a semi-realistic simulation of the basic ATM operations in a console or terminal, making the functionality of an ATM machine easier to understand.
 __________
