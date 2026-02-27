@@ -1,6 +1,11 @@
 # Basic-ATM-Machine-Prototype-in-C-Language
 This project is a basic ATM machine prototype developed using the C programming language without any GUI.
 
+Table of Contents
+__________
+- [Features](#features)
+- [How to Run]((#how-to-run)
+
 ## Features
 __________
 > User Mode
@@ -24,3 +29,12 @@ __________
 - notelist.txt : Stores the number of the notes available in the machine;
 
 ⚠️ All .txt files must remain in the same directory or folder as the .exe (executable) file or the .c script.
+
+## How to Run
+__________
+⚠️ All .txt files must remain in the same directory or folder as the .exe (executable) file or the .c script.
+> Run using the .c file
+- Run the following code inside the directory using the terminal for Windows:
+"gcc atm.c -o atm"
+> Run using the .exe (executable file)
+- Run the atm.exe
