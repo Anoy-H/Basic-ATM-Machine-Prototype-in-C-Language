@@ -6,6 +6,7 @@ __________
 - [Features](#features)
 - [How to Run](#how-to-run)
 - [Demo Account Login or Admin Login Credinals](#demo_account_login_or_admin_login_credinals)
+- [Usages](#usages)
 
 ## Features
 > User Mode
