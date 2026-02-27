@@ -5,6 +5,7 @@ Table of Contents
 __________
 - [Features](#features)
 - [How to Run](#how-to-run)
+- [Demo Account Login or Admin Login Credinals](#demo_account_login_or_admin_login_credinals)
 
 ## Features
 > User Mode
