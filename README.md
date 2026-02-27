@@ -4,7 +4,7 @@ This project is a basic ATM machine prototype developed using the C programming 
 Table of Contents
 __________
 - [Features](#features)
-- [How to Run]((#how-to-run)
+- [How to Run](#how-to-run)
 
 ## Features
 __________
