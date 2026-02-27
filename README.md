@@ -33,3 +33,24 @@ __________
 "gcc atm.c -o atm"
 > Run using the .exe (executable file)
 - Run the atm.exe
+__________
+
+## Demo Account Login or Admin Login Credinals
+⚠️ All .txt files must remain in the same directory or folder as the .exe (executable) file or the .c script.
+__________
+> Demo Account Numbers
+- 2312100
+- 2312101
+- 2312102
+- 2312103
+- 2312104
+> Demo Account PIN Numbers
+- 1234
+- 1234
+- 1234
+- 1234
+- 1234
+> Demo Admin Login Credinals
+- Admin Account Number: 19640419
+- Admin PIN: 196404
+__________
