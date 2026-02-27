@@ -23,7 +23,7 @@ __________
 - balance.txt : Stores user account balances;
 - namelist.txt : Stores user account names;
 - notelist.txt : Stores the number of the notes available in the machine;
-⚠️ All .txt files must remain in the same directory or folder as the .exe (executable) file or the .c script.
+> ⚠️ All .txt files must remain in the same directory or folder as the .exe (executable) file or the .c script.
 
 ## How to Run
 ⚠️ All .txt files must remain in the same directory or folder as the .exe (executable) file or the .c script.
